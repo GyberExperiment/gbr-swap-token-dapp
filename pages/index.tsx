@@ -34,32 +34,11 @@ export default function Home() {
           This is a demo version of a decentralized NextJS application
         </p>
 
-        <div className="flex justify-center space-x-5 pt-10 mt-10 border-t border-gray-300 w-full max-w-xl text-gray-600">
-          <Link
-            href="https://postgres-starter.vercel.app/"
-            className="font-medium underline underline-offset-4 hover:text-black transition-colors"
-          >
-            Starter
-          </Link>
-          <Link
-            href="https://postgres-kysely.vercel.app/"
-            className="font-medium underline underline-offset-4 hover:text-black transition-colors"
-          >
-            Kysely
-          </Link>
-          <Link
-            href="https://postgres-drizzle.vercel.app/"
-            className="font-medium underline underline-offset-4 hover:text-black transition-colors"
-          >
-            Drizzle
-          </Link>
-        </div>
-
         <div className="sm:absolute sm:bottom-0 w-full px-20 py-10 flex justify-between">
           <Link href="#">
           </Link>
           <Link
-            href="https://github.com/vercel/examples/tree/main/storage/postgres-prisma"
+            href="https://github.com/OpenDevCommune/gbr-swap-token-dapp"
             className="flex items-center space-x-2"
           >
             <Image
